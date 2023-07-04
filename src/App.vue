@@ -108,26 +108,26 @@ export default {
       candidatos:{
             "prefeito":{
               "01":{
-                "nome": "Ash",
-                "partido": "Pokemon",
-                "imagem": "https://raw.githubusercontent.com/william-costa/wdev-urna-eletronica-resources/master/images/ash.png"
+                "nome": "Barack",
+                "partido": "Obama",
+                "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/245px-President_Barack_Obama.jpg"
               },
               "08":{
-                "nome": "Vegeta",
-                "partido": "Dragon Ball",
-                "imagem": "https://raw.githubusercontent.com/william-costa/wdev-urna-eletronica-resources/master/images/vegeta.png"
+                "nome": "Oprah",
+                "partido": "Winfrey",
+                "imagem": "https://s2-vogue.glbimg.com/yjfW9MPA7ATccOG18eE8iMhCqcU=/0x0:620x930/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_5dfbcf92c1a84b20a5da5024d398ff2f/internal_photos/bs/2022/E/y/JD2w4LSv634iY3Dts9fw/2022-01-28-gettyimages-176445627.jpg"
               }
             },
             "vereador":{
               "01234":{
-                "nome": "Pikachu",
-                "partido": "Pokemon",
-                "imagem": "https://raw.githubusercontent.com/william-costa/wdev-urna-eletronica-resources/master/images/pikachu.png"
+                "nome": "Beyonce",
+                "partido": "Knowles",
+                "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcqTzFnLP1f0YLmKLQi8383ka8Pic6Ya5-1w&usqp=CAU"
               },
               "08001":{
-                "nome": "Goku",
-                "partido": "Dragon Ball",
-                "imagem": "https://raw.githubusercontent.com/william-costa/wdev-urna-eletronica-resources/master/images/goku.png"
+                "nome": "Martin Luther ",
+                "partido": "King",
+                "imagem": "https://cdn.pensador.com/img/authors/ma/rt/martin-luther-king-l.jpg"
     }
   }
 }
